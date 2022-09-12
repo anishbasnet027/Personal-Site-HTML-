@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  width: 100%;
+  margin: 50px auto;
+  display: grid;
+  grid-template-rows: 80px 120px;
+  grid-template-columns: 150px 150px 150px;
+}
+
+.div1{
+  background-color: brown;
+}
+
+
+.div2{
+  background-color: black;
+}
+
+
+.div3{
+  background-color: magenta;
+}
+
+.div4{
+  background-color: blue;
+}
+
+.div5{
+  background-color: palevioletred;
+}
+
+.div6{
+  background-color: greenyellow;
+}
